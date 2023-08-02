@@ -1,6 +1,6 @@
-package simulation.manager;
+package world.simulation.manager;
 
-import simulation.Simulation;
+import world.simulation.Simulation;
 
 import java.util.List;
 

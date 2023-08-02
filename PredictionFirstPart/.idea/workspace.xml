@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d53748c-6c4c-47be-8cb9-ae12a1b31ea2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TL1jFzPeWYHJqolFjCdCrwX4L8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/src/github.com/shacharlevy/Prediction" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="world" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d53748c-6c4c-47be-8cb9-ae12a1b31ea2" name="Default Changelist" comment="" />
+      <created>1690807679391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690807679391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="174" key="#Project_Structure" timestamp="1690809614661">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1368" y="174" key="#Project_Structure/0.0.1600.852/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1690809614661" />
+    <state x="-1299" y="441" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1690816917531">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1299" y="441" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.852/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1690816917531" />
+    <state x="-1164" y="396" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1690816924337">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1164" y="396" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.852/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1690816924337" />
+    <state x="-1206" y="22" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1690972498852">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1206" y="22" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.852/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1690972498852" />
+    <state x="-1230" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1690971099318">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1230" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.852/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1690971099318" />
+    <state x="-1180" y="271" key="FileChooserDialogImpl" timestamp="1690812089976">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1180" y="271" key="FileChooserDialogImpl/0.0.1600.852/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1690812089976" />
+    <state x="-1578" y="136" key="new project wizard" timestamp="1690811003194">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1578" y="136" key="new project wizard/0.0.1600.852/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1690811003194" />
+  </component>
+</project>

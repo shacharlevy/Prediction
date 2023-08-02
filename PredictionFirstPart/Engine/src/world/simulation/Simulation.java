@@ -1,4 +1,4 @@
-package simulation;
+package world.simulation;
 
 import java.sql.Time;
 
