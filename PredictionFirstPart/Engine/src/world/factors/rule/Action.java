@@ -3,11 +3,11 @@ package world.details.rule;
 import world.details.entity.PRDentity;
 import world.details.entity.PRDproperty;
 
-public class PRDaction {
+public class Action {
     public enum Type {INCREASE, DECREASE, CALCULATION, CONDITION, SET, KILL, REPLACE, PROXIMITY};
 
-    private PRDentity entity;
-    private PRDproperty property;
+    private Entity entity;
+    private Property property;
     private Type type;
     private String by;
     private float probability;

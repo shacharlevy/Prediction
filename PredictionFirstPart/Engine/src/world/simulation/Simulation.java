@@ -8,8 +8,7 @@ public class Simulation {
     private Time date;
     private String name;
     private String type; //TODO: check type
-    private int rangeFrom;
-    private int rangeTo;
+    private Range range;
     private boolean isFinished;
 
 

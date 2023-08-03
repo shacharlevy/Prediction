@@ -8,8 +8,8 @@ import world.details.termination.PRDtermination;
 import java.util.List;
 
 public class World {
-    private PRDenvironment environment;
-    private List<PRDentity> entities;
-    private List<PRDrule> rules;
-    private PRDtermination termination;
+    private Environment environment;
+    private List<Entity> entities;
+    private List<Rule> rules;
+    private Termination termination;
 }

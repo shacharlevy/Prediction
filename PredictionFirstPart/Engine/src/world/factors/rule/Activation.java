@@ -1,6 +1,6 @@
 package world.details.rule;
 
-public class PRDactivation {
+public class Activation {
     private int ticks;
     private float probabilty;
 }

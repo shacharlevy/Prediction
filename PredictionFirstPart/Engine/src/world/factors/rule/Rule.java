@@ -2,13 +2,13 @@ package world.details.rule;
 
 import java.util.List;
 
-public class PRDrule {
+public class Rule {
     private String name;
     private List<PRDaction> actions;
-    private PRDactivation activation;
+    private Activation activation;
 
 
-    public PRDrule()
+    public Rule()
     {
 
     }
