@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d1afd39e-f4b3-4424-b4f6-364bb11356c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PredictionFirstPart/UI/src/ui/menu/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/entity/PRDentity.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/entity/EntityDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/entity/PRDproperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/entity/Property.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/entity/PRDvalue.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/entity/Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/environment/PRDEnvProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/environment/EnvProperty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/environment/PRDenvironment.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/environment/Environment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/environment/PRDrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/environment/Range.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/rule/PRDaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/rule/Action.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/rule/PRDactivation.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/rule/Activation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/rule/PRDrule.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/rule/Rule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/details/termination/PRDtermination.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/factors/termination/Termination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/simulation/Simulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/Engine/src/world/simulation/Simulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/UI/src/facade/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/UI/src/facade/Facade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/UI/src/ui/ProgramMain.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/PredictionFirstPart/UI/src/ui/PredictionConsuleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PredictionFirstPart/UI/src/ui/ProgramMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PredictionFirstPart/UI/src/ui/menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PredictionFirstPart/UI/src/ui/menu/MenuOption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Prediction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Prediction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionFirstPart/UI/src/ui/menu/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/PredictionFirstPart/UI/src/ui/menu/MenuItem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +28,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2TLAfcrloh53FW7A0nySFes7Hle" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/src/github.com/OriBraverman/Prediction",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\src\github.com\shacharlevy\Prediction\PredictionFirstPart\UI\src\ui" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -58,17 +69,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690812091808</updated>
+      <workItem from="1691067169168" duration="635000" />
+      <workItem from="1691228562437" duration="929000" />
+      <workItem from="1691229576020" duration="3950000" />
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="-1203" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1691063688475">
-      <screen x="-1920" y="0" width="1920" height="1032" />
-    </state>
-    <state x="-1203" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.852/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691063688475" />
-    <state x="-1321" y="203" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1691062953427">
-      <screen x="-1920" y="0" width="1920" height="1032" />
-    </state>
-    <state x="-1321" y="203" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1600.852/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691062953427" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
